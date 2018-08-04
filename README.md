@@ -1,2 +1,1 @@
-# students-homeworks
-Some of homeworks I've done for students
+بعضی از تکالیفی که برای دانشجوها انجام دادم رو اینجا می‌ذارم.
